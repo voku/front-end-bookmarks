@@ -22,3 +22,7 @@
 + JS-Helper
     + [Velocity.js](http://julian.com/research/velocity/): Accelerated JavaScript animation
     + [Hammer.js](http://hammerjs.github.io/getting-started/): use gestures made by touch, mouse and pointerEvents
+
++ General-Infos for developers
+    + [developer.mozilla.org](https://developer.mozilla.org/de/)
+    + [developers.google.com](https://developers.google.com/web/fundamentals/)
