@@ -6,6 +6,7 @@
     + [A List of CSS Style Guides for Inspiration](http://sixrevisions.com/css/css-style-guides/)
     + [Styleguide Generator Overview](http://vinspee.me/style-guide-guide/)
     + [CSS-Guidelines](https://github.com/rnarian/CSS-Guidelines/blob/master/README.md): Allgemeine Notizen, Ratschläge und Richtlinien zu CSS
+    + [Frontend Guidelines](https://github.com/bendc/frontend-guidelines/blob/master/README.md)
     + [SASS-Guidelines](http://sass-guidelin.es/): An opinionated styleguide for writing sane, maintainable and scalable Sass.
     + [RSCSS](https://github.com/rstacruz/rscss): Reasonable Standard for CSS Stylesheet Structure
 
