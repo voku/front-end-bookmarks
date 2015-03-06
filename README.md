@@ -33,5 +33,6 @@
     + [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet): Obsessive cheat sheet to favicon sizes/types.
 
 + General-Infos for developers
+    + [developers.menadwork.com](http://developers.menadwork.com/)
     + [developer.mozilla.org](https://developer.mozilla.org/de/)
     + [developers.google.com](https://developers.google.com/web/fundamentals/)
